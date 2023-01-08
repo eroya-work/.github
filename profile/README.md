@@ -11,13 +11,24 @@
 
 ## Authors
 
-👤 **aljndaro**
+👤 **Alejandro Cruz** | Frontend Web Developer/Head of Product
 
 * Discord: heartless#5559
 * Twitter: [@aljndaro](https://twitter.com/aljndaro)
 * Github: [@aljndaro](https://github.com/aljndaro)
 
+👤 **Alexander Hyman** | Full Stack Developer
+
+* Discord: Lavender
+#6999
+* Twitter: [@lavenderfolf](https://twitter.com/lavenderfolf)
+* Github: [@LavenderColoredFolf](https://github.com/LavenderColoredFolf)
+
 
 ## Show your support
 
 ⭐ Follow us to keep up to date with development progress and projects!
+
+## Require support? 
+
+🙋‍♂️ Contact us via [email](mailto:inquires@aqnitai.app)
