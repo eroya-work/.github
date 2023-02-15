@@ -1,23 +1,24 @@
-<h1 align="center">Welcome to Aqnitai Hosting 👋</h1>
+<h1 align="center">Welcome to Aqnitai Platforn 👋</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
-> Making Hosting Simple Underpinned by a experienced, responsive team. With modern enterprise hardware, protected by robust Anti-DDoS protection systems underpinned by a passionate support team; we are Aqnitai Hosting!
+> Manage your Roblox staff effortlessly with Aqnitai
+
 
 ### 🏠 [Homepage](https://aqnitai.xyz)
 
 ## Authors
 
-👤 **Alejandro Cruz** | Frontend Web Developer/Head of Product
+👤 **Alejandro Cruz** | Head of Platform
 
 * Discord: heartless#5559
 * Twitter: [@aljndaro](https://twitter.com/aljndaro)
 * Github: [@aljndaro](https://github.com/aljndaro)
 
-👤 **Alexander Hyman** | Full Stack Developer
+👤 **Alexander Hyman** | Full Stack Developer, Vice President
 
 * Discord: Lavender
 #6999
