@@ -10,7 +10,7 @@ Whether you're a game developer seeking to fill a key position, or a talented Ro
 
 Contact our team at [engineering@teams.eroyawork.us](mailto:engineering@teams.eroyawork.us)
 
-### Our developement Stack
+### Our development Stack
 We love to share our stack for those who are looking to be employed in the engineering field at Eroya!
 
 * Typescript, and Javascript - Main language that make our platform work the way it does
@@ -23,7 +23,7 @@ If you're interested in joining our team, we invite you to browse our current jo
 
 * Frontend Developer - You'll be incharge of creating the UI that users see when they access our platform. You'll need to learn or need to use TailwindCSS, HTML, and (S)CSS.
 * Backend Developer - You'll be incharge of how the platform works. You'll be creating most of the features that our customers use, suchas, Activity Tracking, Applications Center, etc. You'll need to use Javscript, Typescript, Firebase, and MongoDB
-* Full Stack Developer - You basically manage everything developement on the platform. You'll need to have knowledge with HTML, CSS, TailwindCSS, SCSS, MongoDB, Firebase, etc. 
+* Full Stack Developer - You basically manage everything development on the platform. You'll need to have knowledge with HTML, CSS, TailwindCSS, SCSS, MongoDB, Firebase, etc. 
 
 If you are interested in any of these positions, please contact us at [staffing@teams.eroyawork.us](mailto:staffing@teams.eroyawork.us)!
 
